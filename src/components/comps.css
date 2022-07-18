@@ -1,0 +1,129 @@
+.nav{
+    text-align: center;
+    height: 80px;
+    background-color: rgb(221, 150, 19);
+    margin-top: -20px;
+    padding-top:10px;
+}
+
+.img1{
+    height: 45px;
+    width: 45px;
+    float: right;
+    position: relative;
+    right: 550px;
+    bottom: 56px;
+}
+
+.nav h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1.5rem;
+}
+
+.balance-screen{
+    width: 50%;
+    height: 100px;
+    width: 300px;
+    box-shadow: 5px 10px #5bb3b9;
+    padding: 10px 0 29px 0;
+    text-align: center;
+    margin: 20px auto;
+    border: 2px solid rgb(211, 209, 209);
+    border-radius: 10px;
+}
+
+.balance-screen h2,h1{
+    color: white;
+}
+
+.left{
+    border: 2px solid white;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+}
+
+.right{
+    border: 2px solid white;
+    float: right;
+    position: relative;
+    bottom:114px;
+    right: 200px;
+    width: 20%;
+    margin-left: -30px;
+    text-align: center;
+}
+
+.final{
+    margin: 40px 230px 0 0px;
+}
+
+.left h2{
+    color: white;
+}
+
+.right h2{
+    color: white;
+
+}
+
+.left p{
+    color: green;
+    font-size: 1rem;
+}
+
+.right p{
+    color: red;
+    font-size: 1rem;
+}
+
+.list{
+    
+    border: 1px solid white;
+    width: 20%;
+    margin: 20px auto;
+}
+
+.list p{
+    float: right;
+    position: relative;
+    bottom: 60px;
+    right: 50px;
+    color: red;
+}
+
+.list h3{
+    position: relative;
+    right:0px ;
+    left: 20px;
+    color: white;
+}
+
+.inp{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.inp p{
+    color: white;
+    font-size: 20px;
+}
+
+.para{
+    position: relative;
+    left: 310px;
+}
+
+.inp button{
+    display: block;
+    margin: 10px auto;
+    background-color: green;
+    border-radius :10px;
+    height: 30px;
+    width: 80px;
+}
+
+.inp input{
+    height: 30px;
+    width: 200px;
+}
